@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "./node_modules/mocha/bin/mocha"
+    "start": "npm index.js",
+    "test": "npx mocha"
   },
   "author": "",
   "license": "ISC",
